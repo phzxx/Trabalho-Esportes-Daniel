@@ -1,0 +1,71 @@
+<html>
+    <head>
+        <title>Formulario</title>
+        <link rel="stylesheet" href="estilo.css">
+    </head>
+    <body>
+        <nav>
+            <header>
+                <h1>Nome Site</h1>
+            </header>
+            <button>&#9776;</button>
+            <ul>
+                <li>
+                    <p><strong>Página Inicial</strong></p>
+                </li>
+                <li>
+                    <p><strong>Basquete</strong></p>
+                </li>
+                <li>
+                    <p><strong>Futebol</strong></p>
+                </li>
+                <li>
+                    <p><strong>Fórmula 1</strong></p>
+                </li>
+                <li>
+                    <p><strong>Tênis</strong></p>
+                </li>
+            </ul>
+            </nav>
+        <section>
+            <h3 style="color: #59429d;">Preencha o formulário para ser direcionado à página principal.</h3>
+        </section>
+        <section>
+            <form action="Inicial.html" method="get">
+            <div class="campo">
+                <label><strong>Digite o seu nome: </strong></label>
+                <input type="text" name="Nome" required>
+            </div>
+            <div class="campo">
+                <label><strong>Digite o seu e-mail: </strong></label>
+                <input type="email" placeholder="seuemail@gmail.com" name="Email" required>
+            </div>
+            <div class="campo">
+                <label><strong>Qual o seu esporte preferido?</strong></label>
+                <label>
+                    <input type="radio" name="esporte" value="futebol" checked> <strong>Futebol</strong>
+                </label>
+                <label>
+                    <input type="radio" name="esporte" value="volei"> <strong>Vôlei</strong>
+                </label>
+                <label>
+                    <input type="radio" name="esporte" value="basquete"> <strong>Basquete</strong>
+                </label>
+                <label>
+                    <input type="radio" name="esporte" value="f1"> <strong>Fórmula 1</strong>
+                </label>
+                <label>
+                    <input type="radio" name="esporte" value="tenis"> <strong>Tênis</strong>
+                </label>
+            </div>
+            <br>
+            <div class="campo">
+                <label><strong>Não sou um Robô</strong></label>
+                <input type="checkbox" value="robo" required>
+            </div>
+            <br> <br>
+            <button class="botao" type="submit">Concluído</button>
+            </form>
+        </section>
+    </body>
+</html>
