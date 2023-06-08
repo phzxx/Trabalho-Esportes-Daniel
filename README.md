@@ -4,3 +4,5 @@
 
 
 31/05 Lucas Coutinho:Inicio da Página sobre Tênis.
+
+07/06 Pedro Morais: Atualização do CSS, Atualização do documento, Atualização/Projeto Final da página inicial, formulário e página de contato, as imagens dessa atualização direcionam para os sites dos outros integrantes e o menu responsivo também irá direcionar após o envio de todo o projeto.
