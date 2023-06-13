@@ -10,3 +10,5 @@
 13/06 Joao henriquue: envio da pagina de futebol finalizada
 
 13/06 Kaue fonseca : envio da pagina de basquete finalizada 
+
+13/06 Pedro Morais: Atualização do documento
