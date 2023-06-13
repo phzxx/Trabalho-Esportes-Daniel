@@ -12,3 +12,5 @@
 13/06 Kaue fonseca : envio da pagina de basquete finalizada 
 
 13/06 Pedro Morais: Atualização do documento
+
+13/06 Lucas Coutinho: Envio da página de tenis finalizada e Atualização do CSS
