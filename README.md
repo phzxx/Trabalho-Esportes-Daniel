@@ -18,3 +18,5 @@
 13/06 Lucas Coutinho: Envio da página de tenis finalizada e Atualização do CSS
 
 13/06 yan gonzaga: envio final pagina formula 1 com estilo
+
+14/06 yan gonzaga: edicao do video de apresentacao
