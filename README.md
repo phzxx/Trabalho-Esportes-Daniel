@@ -22,3 +22,5 @@
 14/06 yan gonzaga: edicao do video de apresentacao
 
 14/06 Lucas Coutinho: Pagina sobre nos finalizada e fotos e videos adicionados
+
+14/06 Lucas Coutinho: Professor Daniel Autorizou a correção dos arquivos dos links que estavam errados, atualizamos o link em todas as páginas HTML.
