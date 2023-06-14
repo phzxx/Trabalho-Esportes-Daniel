@@ -21,4 +21,4 @@
 
 14/06 yan gonzaga: edicao do video de apresentacao
 
-14/06 Lucas Coutinho: Pagina sobre nos finalizada.
+14/06 Lucas Coutinho: Pagina sobre nos finalizada e fotos e videos adicionados
