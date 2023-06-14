@@ -20,3 +20,5 @@
 13/06 yan gonzaga: envio final pagina formula 1 com estilo
 
 14/06 yan gonzaga: edicao do video de apresentacao
+
+14/06 Lucas Coutinho: Pagina sobre nos finalizada.
